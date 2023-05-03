@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">formula1</string>
+
+    <string name="f1drivers_name">Nama Drivers F1</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">About</string>
+    <string name="about_text">About</string>
+
+    <string-array name="data_name">
+        <item>Max Verstappen</item>
+        <item>Sergio Perez</item>
+        <item>Charles Lecrec</item>
+        <item>Carlos Sainz</item>
+        <item>Lewis Hamilton</item>
+        <item>George Russel</item>
+        <item>Lando Norris</item>
+        <item>Oscar Piastri</item>
+        <item>Yuki Tsunoda</item>
+        <item>Nyck De Vries</item>
+    </string-array>
+
+    <string-array name="data_team">
+        <item>Team : Redbull Racing</item>
+        <item>Team : Redbull Racing</item>
+        <item>Team : Ferrari</item>
+        <item>Team : Ferrari</item>
+        <item>Team : Mercedes</item>
+        <item>Team : Mercedes</item>
+        <item>Team : McLaren</item>
+        <item>Team : McLaren</item>
+        <item>Team : Alphatauri</item>
+        <item>Team : Alphatauri</item>
+    </string-array>
+
+
+
+    <string-array name="data_description">
+        <item>Max Emilian Verstappen (pengucapan Belanda: [mɑks eːmiliɑn vɛrstɑpən]; lahir 30 September 1997) adalah seorang pembalap mobil profesional Belgia-Belanda,yang saat ini bersaing di bawah bendera Belanda di ajang balap Formula Satu dengan Red Bull Racing. Ia adalah putra dari mantan pembalap F1, Jos Verstappen.</item>
+        <item>Sergio Michel Pérez Mendoza (bahasa Spanyol: [ˈseɾxjo ˈpeɾes]; lahir 26 Januari 1990),dijuluki "Checo", merupakan seorang pembalap mobil professional asal Meksiko. Saat ini Pérez membalap di Formula Satu untuk Red Bull Racing, mendampingi Max Verstappen. Checo pernah membalap bersama dengan tim Sauber, McLaren, dan Force India (di musim 2019, sebelum berganti nama menjadi Racing Point, dan kemudian Aston Martin). </item>
+        <item>Charles Marc Hervé Percival Leclerc (pengucapan bahasa Prancis: [ʃaʁl ləklɛʁ], lahir 16 Oktober 1997) merupakan seorang pembalap mobil profesional dari Monako yang saat ini membalap di arena Formula Satu untuk tim Scuderia Ferrari. Ia merupakan juara Seri GP3 musim 2016 dan Formula 2 musim 2017. Leclerc naik kelas ke ajang Formula Satu di musim 2018 dengan bergabung bersama tim Sauber.</item>
+        <item>Carlos Sainz Vázquez de Castro, biasa disapa sebagai Carlos Sainz, Jr.  atau Carlos Sainz saja (lahir 1 September 1994) merupakan seorang pembalap mobil profesional asal Spanyol yang saat ini membalap di arena Formula Satu bersama tim Scuderia Ferrari.</item>
+        <item>Sir Lewis Carl Davidson Hamilton MBE (lahir 7 Januari 1985) adalah seorang pembalap profesional dari Britania Raya, yang saat ini membalap untuk Mercedes di Formula Satu. Sekarang, ia memiliki gelar dunia terbanyak, yakni 7 (dipegang bersama dengan Michael Schumacher), dan juga kemenangan (103), pole position (103), dan finis podium terbanyak (191).</item>
+        <item>George William Russell (/rʌsəl/; lahir 15 Februari 1998) adalah seorang pembalap mobil profesional Inggris yang saat ini membalap di ajang Formula Satu dengan Mercedes. Ia adalah Juara Formula 2 musim 2018 dan juara Seri GP3 musim 2017. Setelah memenangkan gelar Formula 2, ia membalap untuk Williams pada 2019, membuat debutnya di F1 pada Grand Prix Australia 2019 bersama Robert Kubica.</item>
+        <item>Lando Norris (/nɒrɪs/; lahir 13 November 1999) merupakan seorang pembalap mobil profesional berkewarganegaraan Inggris-Belgia. Ia sekarang berkompetisi di Formula Satu bersama tim McLaren. Kariernya di ajang junior cukup gemilang dengan berhasil memenangi gelar juara MSA Formula championship, Toyota Racing Series, Eurocup Formula Renault 2.0 dan Formula Renault 2.0 Northern European Cup di periode 2015-2016.</item>
+        <item>Oscar Piastri (lahir 6 April 2001) adalah seorang pembalap asal Australia yang akan berkompetisi di Formula Satu pada musim 2023 bersama dengan McLaren, setelah sebelumnya menjadi pembalap cadangan untuk Alpine F1 Team dan menjadi anggota akademi pembalap tim tersebut.</item>
+        <item>Yuki Tsunoda (Jepang: 角田裕毅, Tsunoda Yūki; lahir 11 Mei 2000) adalah seorang pembalap profesional asal Jepang. Ia sekarang berlomba untuk Scuderia AlphaTauri di Formula Satu. Ia merupakan anggota Honda Formula Dream Project dan Red Bull Junior Team. Ia merupakan juara F4 Jepang dan menerima dukungan dari Red Bull.</item>
+        <item>Nyck de Vries (lahir 6 Februari 1995) adalah pembalap mobil profesional asal Belanda yang akan berlaga pada Formula Satu musim 2023 bersama dengan tim Scuderia AlphaTauri. Ia sebelumnya berlaga pada Seri Eropa Le Mans musim 2021 dengan G-Drive Racing serta pada Formula E dari musim 2019–2020 hingga musim 2021–2022 dengan tim Mercedes.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/maxverstappen</item>
+        <item>@drawable/sergioperez</item>
+        <item>@drawable/charleslecrec</item>
+        <item>@drawable/carlossainz</item>
+        <item>@drawable/lewishamilton</item>
+        <item>@drawable/georgerussel</item>
+        <item>@drawable/landonorris</item>
+        <item>@drawable/oscarpiastri</item>
+        <item>@drawable/yukitsunoda</item>
+        <item>@drawable/nyckdevries</item>
+    </integer-array>
+
+
+</resources>
